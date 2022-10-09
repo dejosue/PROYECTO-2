@@ -1,18 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package proyecto_ii_sisop;
 
 import static java.lang.Math.round;
 import java.util.Arrays;
 import javax.swing.JTextArea;
 
-/**
- *
- * @author ricar
- */
 public class Memoria {
     private int memoriaPrincipalTotal;
     private int memoriaSecundariaTotal;
