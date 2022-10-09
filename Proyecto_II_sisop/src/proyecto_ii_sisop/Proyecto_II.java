@@ -101,7 +101,7 @@ public class Proyecto_II extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(204, 255, 255));
+        jPanel1.setBackground(new java.awt.Color(255, 255, 204));
         jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Particiones ", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Yu Gothic UI Semibold", 1, 11))); // NOI18N
 
         fieldMemoriaPrincipal.setText("2048");
@@ -245,10 +245,10 @@ public class Proyecto_II extends javax.swing.JFrame {
                 .addContainerGap())
         );
 
-        jPanel3.setBackground(new java.awt.Color(204, 255, 255));
+        jPanel3.setBackground(new java.awt.Color(255, 204, 204));
         jPanel3.setBorder(javax.swing.BorderFactory.createTitledBorder("Estadísticas"));
 
-        jPanel9.setBackground(new java.awt.Color(204, 255, 255));
+        jPanel9.setBackground(new java.awt.Color(255, 204, 204));
 
         jLabel6.setText("Cantidad de memoria");
 
@@ -388,7 +388,7 @@ public class Proyecto_II extends javax.swing.JFrame {
             .addGroup(jPanel3Layout.createSequentialGroup()
                 .addContainerGap()
                 .addComponent(jPanel9, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(18, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         jPanel5.setBackground(new java.awt.Color(204, 255, 204));
@@ -436,7 +436,7 @@ public class Proyecto_II extends javax.swing.JFrame {
                 .addContainerGap())
         );
 
-        jPanel6.setBackground(new java.awt.Color(204, 255, 204));
+        jPanel6.setBackground(new java.awt.Color(204, 204, 204));
         jPanel6.setBorder(javax.swing.BorderFactory.createTitledBorder("Cambiar estado de proceso"));
 
         suspenderProcesoBloqueado.setText("Suspender/bloqueado");
@@ -628,7 +628,7 @@ public class Proyecto_II extends javax.swing.JFrame {
         textArea.setRows(5);
         jScrollPane4.setViewportView(textArea);
 
-        jPanel4.setBackground(new java.awt.Color(204, 255, 255));
+        jPanel4.setBackground(new java.awt.Color(204, 204, 255));
         jPanel4.setBorder(javax.swing.BorderFactory.createTitledBorder("Bono"));
 
         jLabel11.setText("Numero de página");
