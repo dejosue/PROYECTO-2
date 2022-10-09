@@ -9,10 +9,7 @@ import static java.lang.Math.round;
 import java.util.Arrays;
 import javax.swing.JTextArea;
 
-/**
- *
- * @author ricar
- */
+
 public class Memoria {
     private int memoriaPrincipalTotal;
     private int memoriaSecundariaTotal;
