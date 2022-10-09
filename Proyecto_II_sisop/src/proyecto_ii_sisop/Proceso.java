@@ -8,10 +8,7 @@ package proyecto_ii_sisop;
 import static java.lang.Math.ceil;
 import static java.lang.Math.round;
 
-/**
- *
- * @author ricar
- */
+
 public class Proceso {
     private String nombre;
     private int tamaño;
